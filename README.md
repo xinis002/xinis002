@@ -6,15 +6,15 @@
 
 
 ### 
-<h1 align="center">Hi, I'm Simon!</h1>
+<h1 align="center">Hi🤚, I'm Simon!</h1>
 
 
 ###
 
-<h3 align="left">👩‍💻  About me</h3>
+<h3 align="left">🧑‍💻 About me</h3>
 
 ###
-<p align="left"> I am backend developer <br><br>- 🔭 .<br>- 📚 <br>- ⚡ </p>
+<p align="left"> I'm a junior backend developer with a practical experience in server-side development, working mainly with Python. I've built RESTful APIs, worked with PostgreSQL, and have experience deploying apps using Docker. I'm working on writing clean, more scalable code every day. I'm constantly aiming to learn and improve while working with others.<br><br>- 🌋 Currently in a committed relationship with Django, REST APIs, and the occasional stubborn bug. <br>- 📚 I’m currently sharpening my skills in Docker, refining my database design approach, and getting better at writing clean, efficient code. <br>- ⚡I treat my personal projects like houseplants — constantly checking on them, tweaking things, and hoping they don’t crash overnight. </p>
 
 
 ###
@@ -38,4 +38,9 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 
+
+
+   
 
